@@ -116,7 +116,7 @@ public sealed class BlazePoseSample : MonoBehaviour
     void Start()
     {
 
-   infoText.text =  "Starting";
+        infoText.text =  "Starting";
 
 
         // Init camera
